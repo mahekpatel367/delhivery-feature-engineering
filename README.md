@@ -29,3 +29,8 @@ The dataset includes logistics information such as:
 - Python
 - Pandas, NumPy
 - Datetime utilities
+
+## Full Dataset Access
+The complete Delhivery dataset is available at the link below due to GitHub file size limitations:
+
+https://drive.google.com/file/d/1SsMIOF3c3zMeVk1LMHnkb8pip9sWG7n9/view?usp=drive_link
